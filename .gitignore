@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Node (si jamais)
+node_modules/
+
+# Local history / caches
+*.swp
+*.swo
